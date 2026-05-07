@@ -1,12 +1,12 @@
 <div align="center">
- <img src="res/GRABIN.png" width="40%">
+ <img src="res/WebMinerLamp.jpg" width="40%">
 </div>
 <p align="center">
   <i>One tool for detecting in-browser Cryptojacking.</i>
 </p>
 
 
-# GRABIN
+# MinerLamp
 
 ## Data Set
 
